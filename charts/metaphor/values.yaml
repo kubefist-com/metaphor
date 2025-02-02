@@ -76,4 +76,4 @@ vaultMountPoint: kubefirst
 vaultSecretPath: development/metaphor
 clusterSecretStoreName: vault-kv-secret
 
-originIssuerIsEnabled: <ORIGIN_ISSUER_IS_ENABLED>
+originIssuerIsEnabled: false
